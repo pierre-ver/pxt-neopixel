@@ -24,7 +24,7 @@
   "neopixel.Strip.setPixelColor|block": "régler couleur DELs de %strip|à %pixeloffset|sur %rgb=neopixel_colors",
   "neopixel.Strip.setPixelWhiteLED|block": "régler DELs blanches de %strip|à %pixeloffset|sur %white",
   "neopixel.Strip.shift|block": "décaler DELs de %strip|de %offset",
-  "neopixel.Strip.showBarGraph|block": "tracer graphe de %strip|de %value|jusqu'à %high",
+  "neopixel.Strip.showBarGraph|block": "tracer sur %strip graphe|de %value|jusqu'à %high",
   "neopixel.Strip.showColor|block": "régler couleur de %strip|sur %rgb=neopixel_colors",
   "neopixel.Strip.showRainbow|block": "afficher arc-en-ciel sur %strip|de %startHue|à %endHue",
   "neopixel.Strip.show|block": "montrer %strip|",
